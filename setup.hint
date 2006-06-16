@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libICE6 libX11_6 libXt6
+sdesc: "Xorg proxy manager"
+ldesc: "Xorg proxy manager"
