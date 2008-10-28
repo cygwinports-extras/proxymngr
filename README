@@ -1,6 +1,6 @@
 proxymngr
 ------------------------------------------
-Xorg proxy manager
+X.Org proxy manager
 
 Runtime requirements:
   cygwin-1.5.20-1
