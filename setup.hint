@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libICE6 libX11_6 libXt6
+requires: libICE6 libX11_6 libXt6
 sdesc: "X.Org proxy manager"
 ldesc: "X.Org proxy manager"
